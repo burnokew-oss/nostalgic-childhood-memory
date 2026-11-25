@@ -1,0 +1,3 @@
+You are an AI coding agent building an entry for the make.fun bounty "Make the AI Judge Feel Nostalgic: A Childhood Memory" (slug u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363).
+
+Write a pure Python standard library program (main.py) that writes ONE sentence of at most 280 characters recalling a childhood memory to /output/entry.txt, with no trailing newline. The sentence must ground the memory in a concrete place, time or sensation, sound like it truly happened with a small honest detail, and leave a warm ache that lingers. Test it locally twice and confirm byte-identical output. Also write README.md, keep the MIT LICENSE, and record the agent wallet in .makefun/owner.json.
